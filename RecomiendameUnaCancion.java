@@ -14,5 +14,13 @@ public class RecomiendameUnaCancion {
         System.out.println("Canción: We Are The People");
         System.out.println("Artista: Empire Of The Sun");
         System.out.println("¿Por qué?: Porque es una cancion nostalgica que habla sobre gobernar nuestra propia vida");
+        
+//recomendacion de Ximena Gomez Torres
+        
+        System.out.println(" RECOMIÉNDAME UNA CANCIÓN \n");
+        System.out.println("Ximena recomienda:");
+        System.out.println("Canción: Love like you");
+        System.out.println("Artista: Rebecca Sugar");
+        System.out.println("¿Por qué?: Por que refleja un sentido de admiracion y deseo de ser tan bueno como alguien mas");
     }
 }
